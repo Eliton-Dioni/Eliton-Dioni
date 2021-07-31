@@ -1,10 +1,10 @@
-##  Hey there, I'm Eliton Dioni ✌
+##  Hey there, I'm Eliton Dioni <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25">
 
-### I'm a Software Developer, Musician and Nerd 🤓
+### I'm a Software Developer, Musician and Nerd <img src="https://emoji.gg/assets/emoji/4014-subaruduckdance.gif" width="34px" height="34px">
 
 - 👨‍💻 I’m currently working with Angular 🤖
 - 📚 I'm always learning something new 🍀
-- 💬 About me: I love to play ukulele / guitar 🎸
+- <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> About me: I love to play ukulele / guitar 🎸
 
  <div>
   <a href="https://www.linkedin.com/in/eliton-dioni/">
